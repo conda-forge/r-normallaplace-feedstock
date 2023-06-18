@@ -1,11 +1,11 @@
-About r-normallaplace
-=====================
+About r-normallaplace-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-normallaplace-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=NormalLaplace
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-normallaplace-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions for the normal Laplace distribution. The package is under development and provides only limited functionality. Density, distribution and quantile functions, random number generation, and moments are provided.
 
